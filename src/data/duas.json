@@ -1,0 +1,184 @@
+{
+  "duas": [
+    {
+      "id": "dua-11",
+      "title": "Dua for Entering the Mosque",
+      "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+      "transliteration": "Allahumma aftah li abwaba rahmatik",
+      "translation": "O Allah, open the gates of Your mercy for me",
+      "category": "Daily Duas",
+      "reference": "Sahih Muslim"
+    },
+    {
+      "id": "dua-12",
+      "title": "Dua for Leaving the Mosque",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "transliteration": "Allahumma inni as'aluka min fadlik",
+      "translation": "O Allah, I ask You of Your bounty",
+      "category": "Daily Duas",
+      "reference": "Sahih Muslim"
+    },
+    {
+      "id": "dua-13",
+      "title": "Dua for Entering the Home",
+      "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+      "transliteration": "Bismillahi walajna, wa bismillahi kharajna, wa 'ala Allahi rabbina tawakkalna",
+      "translation": "In the name of Allah we enter, in the name of Allah we leave, and upon our Lord we place our trust",
+      "category": "Daily Duas",
+      "reference": "Abu Dawud"
+    },
+    {
+      "id": "dua-14",
+      "title": "Dua for Leaving the Home",
+      "arabic": "بِسْمِ اللَّهِ تَوَكَّلْتُ عَلَى اللَّهِ، وَلَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+      "transliteration": "Bismillahi tawakkaltu 'alallah, wa la hawla wa la quwwata illa billah",
+      "translation": "In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah",
+      "category": "Daily Duas",
+      "reference": "Abu Dawud"
+    },
+    {
+      "id": "dua-15",
+      "title": "Dua for Entering the Market",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ، يُحْيِي وَيُمِيتُ، وَهُوَ حَيٌّ لَا يَمُوتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "La ilaha illallah wahdahu la shareeka lah, lahul mulku wa lahul hamd, yuhyi wa yumeet, wa huwa hayyun la yamoot, biyadihil khair, wa huwa 'ala kulli shay'in qadeer",
+      "translation": "There is none worthy of worship except Allah, alone, without partner, to Him belongs all sovereignty and praise, He gives life and causes death, and He is living and does not die, in His hand is all good, and He is over all things competent",
+      "category": "Daily Duas",
+      "reference": "Tirmidhi"
+    },
+    {
+      "id": "dua-16",
+      "title": "Dua for Entering the Bathroom",
+      "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+      "transliteration": "Allahumma inni a'oodhu bika minal khubuthi wal khaba'ith",
+      "translation": "O Allah, I seek refuge in You from evil and evil-doers",
+      "category": "Daily Duas",
+      "reference": "Bukhari and Muslim"
+    },
+    {
+      "id": "dua-17",
+      "title": "Dua for Leaving the Bathroom",
+      "arabic": "غُفْرَانَكَ",
+      "transliteration": "Ghufranak",
+      "translation": "I seek Your forgiveness",
+      "category": "Daily Duas",
+      "reference": "Abu Dawud"
+    },
+    {
+      "id": "dua-18",
+      "title": "Dua for Entering the Masjid",
+      "arabic": "اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+      "transliteration": "Allahumma aftah li abwaba rahmatik",
+      "translation": "O Allah, open the gates of Your mercy for me",
+      "category": "Daily Duas",
+      "reference": "Sahih Muslim"
+    },
+    {
+      "id": "dua-19",
+      "title": "Dua for Leaving the Masjid",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+      "transliteration": "Allahumma inni as'aluka min fadlik",
+      "translation": "O Allah, I ask You of Your bounty",
+      "category": "Daily Duas",
+      "reference": "Sahih Muslim"
+    },
+    {
+      "id": "dua-20",
+      "title": "Dua for Entering the Home",
+      "arabic": "بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا",
+      "transliteration": "Bismillahi walajna, wa bismillahi kharajna, wa 'ala Allahi rabbina tawakkalna",
+      "translation": "In the name of Allah we enter, in the name of Allah we leave, and upon our Lord we place our trust",
+      "category": "Daily Duas",
+      "reference": "Abu Dawud"
+    },
+    {
+      "id": "dua-21",
+      "title": "Dua for Seeking Knowledge",
+      "arabic": "اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا",
+      "transliteration": "Allahummanfa'ni bima 'allamtani, wa 'allimni ma yanfa'ni, wa zidni 'ilma",
+      "translation": "O Allah, benefit me with what You have taught me, teach me what will benefit me, and increase me in knowledge",
+      "category": "Knowledge",
+      "reference": "Tirmidhi"
+    },
+    {
+      "id": "dua-22",
+      "title": "Dua for Studying",
+      "arabic": "اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا",
+      "transliteration": "Allahumma la sahla illa ma ja'altahu sahlan, wa anta taj'alul hazna idha shi'ta sahlan",
+      "translation": "O Allah, nothing is easy except what You make easy, and You make the difficult easy if You wish",
+      "category": "Knowledge",
+      "reference": "Ibn Hibban"
+    },
+    {
+      "id": "dua-23",
+      "title": "Dua for Understanding",
+      "arabic": "اللَّهُمَّ فَقِّهْنِي فِي الدِّينِ",
+      "transliteration": "Allahumma faqqihni fid deen",
+      "translation": "O Allah, make me understand the religion",
+      "category": "Knowledge",
+      "reference": "Bukhari"
+    },
+    {
+      "id": "dua-24",
+      "title": "Dua for Memorization",
+      "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُبَّكَ، وَحُبَّ مَنْ يُحِبُّكَ، وَحُبَّ عَمَلٍ يُقَرِّبُنِي إِلَى حُبِّكَ",
+      "transliteration": "Allahumma inni as'aluka hubbaka, wa hubba man yuhibbuka, wa hubba 'amalin yuqarribuni ila hubbika",
+      "translation": "O Allah, I ask You for Your love, the love of those who love You, and the love of deeds that will bring me closer to Your love",
+      "category": "Knowledge",
+      "reference": "Tirmidhi"
+    },
+    {
+      "id": "dua-25",
+      "title": "Dua for Teaching",
+      "arabic": "اللَّهُمَّ عَلِّمْنِي مَا يَنْفَعُنِي، وَانْفَعْنِي بِمَا عَلَّمْتَنِي، وَزِدْنِي عِلْمًا",
+      "transliteration": "Allahumma 'allimni ma yanfa'ni, wanfa'ni bima 'allamtani, wa zidni 'ilma",
+      "translation": "O Allah, teach me what benefits me, benefit me with what You have taught me, and increase me in knowledge",
+      "category": "Knowledge",
+      "reference": "Ibn Majah"
+    },
+    {
+      "id": "dua-26",
+      "title": "Dua for Travel",
+      "arabic": "اللَّهُمَّ إِنَّا نَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا وَاطْوِ عَنَّا بُعْدَهُ",
+      "transliteration": "Allahumma inna nas'aluka fi safarina hadha al-birra wat-taqwa, wa minal 'amali ma tardha, Allahumma hawwin 'alayna safarana hadha watwi 'anna bu'dahu",
+      "translation": "O Allah, we ask You on this journey of ours for righteousness and piety, and for deeds that are pleasing to You. O Allah, make this journey easy for us and fold up for us its distance",
+      "category": "Travel",
+      "reference": "Muslim"
+    },
+    {
+      "id": "dua-27",
+      "title": "Dua for Boarding a Vehicle",
+      "arabic": "بِسْمِ اللَّهِ",
+      "transliteration": "Bismillah",
+      "translation": "In the name of Allah",
+      "category": "Travel",
+      "reference": "Abu Dawud"
+    },
+    {
+      "id": "dua-28",
+      "title": "Dua for Entering a City",
+      "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيهَا، اللَّهُمَّ ارْزُقْنَا جَلَابِيبَهَا، وَحُبَّبْنَا إِلَى أَهْلِهَا، وَحَبِّبْ صَالِحِي أَهْلِهَا إِلَيْنَا",
+      "transliteration": "Allahumma barik lana fiha, Allahummarzuqna jalabibaha, wa habbibna ila ahliha, wa habbib salihi ahliha ilayna",
+      "translation": "O Allah, bless us in it. O Allah, grant us its provisions, make us beloved to its people, and make the righteous of its people beloved to us",
+      "category": "Travel",
+      "reference": "Tabarani"
+    },
+    {
+      "id": "dua-29",
+      "title": "Dua for Returning from Travel",
+      "arabic": "آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنَا حَامِدُونَ",
+      "transliteration": "Ayibuna, ta'ibuna, 'abiduna, li rabbina hamidun",
+      "translation": "We return, we repent, we worship, and we praise our Lord",
+      "category": "Travel",
+      "reference": "Muslim"
+    },
+    {
+      "id": "dua-30",
+      "title": "Dua for Entering a New City",
+      "arabic": "اللَّهُمَّ بَارِكْ لَنَا فِيهَا",
+      "transliteration": "Allahumma barik lana fiha",
+      "translation": "O Allah, bless us in it",
+      "category": "Travel",
+      "reference": "Tabarani"
+    }
+  ]
+} 
