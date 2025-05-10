@@ -7,6 +7,7 @@ const nextConfig = {
   basePath: '/islamic-learning-platform-project',
   assetPrefix: '/islamic-learning-platform-project/',
   trailingSlash: true,
+  distDir: 'out',
 }
 
 module.exports = nextConfig 
