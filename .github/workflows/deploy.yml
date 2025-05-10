@@ -40,6 +40,7 @@ jobs:
         env:
           NEXT_PUBLIC_BASE_PATH: /islamic-learning-platform-project
           NODE_ENV: production
+          NEXT_TELEMETRY_DISABLED: 1
         run: |
           npm run build
       
