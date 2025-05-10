@@ -39,8 +39,8 @@ jobs:
       - name: Build
         env:
           NEXT_PUBLIC_BASE_PATH: /islamic-learning-platform-project
+          NODE_ENV: production
         run: |
-          export NODE_ENV=production
           npm run build
       
       - name: Setup Pages
