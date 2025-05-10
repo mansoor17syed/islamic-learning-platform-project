@@ -4,7 +4,8 @@ const nextConfig = {
   images: {
     unoptimized: true, // Required for static export
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/islamic-learning-platform-project' : '',
+  basePath: '/islamic-learning-platform-project',
+  assetPrefix: '/islamic-learning-platform-project/',
   trailingSlash: true,
 }
 
