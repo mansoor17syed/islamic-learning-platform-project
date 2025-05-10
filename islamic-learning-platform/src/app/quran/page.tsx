@@ -18,6 +18,38 @@ interface Verse {
   audio: string
 }
 
+interface SurahApiResponse {
+  number: number
+  name: {
+    short: string
+    transliteration: {
+      en: string
+    }
+    translation: {
+      en: string
+    }
+  }
+  numberOfVerses: number
+  revelation: {
+    en: string
+  }
+}
+
+interface VerseApiResponse {
+  number: {
+    inSurah: number
+  }
+  text: {
+    arab: string
+  }
+  translation: {
+    en: string
+  }
+  audio: {
+    primary: string
+  }
+}
+
 function Spinner() {
   return (
     <div className="flex justify-center items-center py-8">
@@ -42,7 +74,7 @@ export default function QuranPage() {
     fetch('https://api.quran.gading.dev/surah')
       .then(res => res.json())
       .then(data => {
-        setSurahs(data.data.map((s: any) => ({
+        setSurahs(data.data.map((s: SurahApiResponse) => ({
           number: s.number,
           name: s.name.short,
           englishName: s.name.transliteration.en,
@@ -61,7 +93,7 @@ export default function QuranPage() {
     fetch(`https://api.quran.gading.dev/surah/${selectedSurah.number}`)
       .then(res => res.json())
       .then(data => {
-        setVerses(data.data.verses.map((v: any) => ({
+        setVerses(data.data.verses.map((v: VerseApiResponse) => ({
           number: v.number.inSurah,
           arabic: v.text.arab,
           translation: v.translation.en,

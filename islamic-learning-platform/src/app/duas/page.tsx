@@ -1,33 +1,11 @@
 'use client'
 
 import { useState, useEffect } from 'react'
-import { useSearchParams } from 'next/navigation'
-import { Dua, duas } from '@/data/duas'
-
-const categories = [
-  'Daily Routine',
-  'Food & Drink',
-  'Entering/Leaving',
-  'Protection',
-  'Knowledge',
-  'Travel',
-  'Other'
-]
-
-const categoryIcons: Record<string, React.ReactNode> = {
-  'Daily Routine': <i className="fa-regular fa-clock" />,
-  'Food & Drink': <i className="fa-solid fa-utensils" />,
-  'Entering/Leaving': <i className="fa-solid fa-door-open" />,
-  'Protection': <i className="fa-solid fa-shield-halved" />,
-  'Knowledge': <i className="fa-solid fa-book" />,
-  'Travel': <i className="fa-solid fa-plane" />,
-  'Other': <i className="fa-solid fa-ellipsis" />,
-};
+import { duas } from '@/data/duas'
 
 export default function DuasPage() {
   const [search, setSearch] = useState('')
   const [activeDua, setActiveDua] = useState<string | null>(null)
-  const searchParams = useSearchParams()
 
   useEffect(() => {
     const hash = window.location.hash.slice(1)

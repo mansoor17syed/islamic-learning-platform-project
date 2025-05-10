@@ -109,10 +109,10 @@ export default function RootLayout({
             <div className="mt-8 pt-8 border-t border-gray-200">
               <div className="text-center">
                 <p className="text-lg font-[var(--font-amiri)] text-green-800 mb-2">
-                  "الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ"
+                  &ldquo;الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا لِهَٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَا أَنْ هَدَانَا اللَّهُ&rdquo;
                 </p>
                 <p className="text-gray-600 italic">
-                  "All praise is due to Allah, who guided us to this, and we would not have been guided if Allah had not guided us."
+                  &ldquo;All praise is due to Allah, who guided us to this, and we would not have been guided if Allah had not guided us.&rdquo;
                 </p>
               </div>
             </div>

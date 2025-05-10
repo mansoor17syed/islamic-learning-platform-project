@@ -79,7 +79,7 @@ export default function AboutPage() {
           <div className="bg-white rounded-2xl shadow-lg p-8 border border-gray-200">
             <h2 className="text-2xl font-bold text-green-800 mb-4">Get in Touch</h2>
             <p className="text-gray-700 mb-4">
-              Have questions or suggestions? We'd love to hear from you. Reach out to us at:
+              Have questions or suggestions? We&apos;d love to hear from you. Reach out to us at:
             </p>
             <a 
               href="mailto:contact@islamiclearningplatform.com" 

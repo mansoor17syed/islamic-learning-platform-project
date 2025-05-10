@@ -287,7 +287,6 @@ export default function PrayersPage() {
   const [selected, setSelected] = useState<string | null>(null)
   const [showGuide, setShowGuide] = useState(false)
   const [showInvalidators, setShowInvalidators] = useState(false)
-  const [showExtras, setShowExtras] = useState<string | null>(null)
 
   return (
     <div className="container mx-auto px-4 py-8">
@@ -304,9 +303,9 @@ export default function PrayersPage() {
       {showGuide && (
         <div className="mb-8 bg-white rounded-xl shadow p-6">
           <h2 className="text-2xl font-bold mb-4 text-green-700">General Salah Guide</h2>
-          {generalGuide.map((step, idx) => (
+          {generalGuide.map((step) => (
             <div key={step.position} className="mb-4">
-              <h3 className="text-lg font-semibold text-green-800">{idx + 1}. {step.position}</h3>
+              <h3 className="text-lg font-semibold text-green-800">{step.position}</h3>
               <ul className="list-disc list-inside ml-4 text-gray-700">
                 {step.details.map((d, i) => <li key={i}>{d}</li>)}
               </ul>
@@ -324,7 +323,7 @@ export default function PrayersPage() {
       )}
       <h2 className="text-2xl font-bold mb-4 text-green-700">How to Perform a Full Prayer (Salah)</h2>
       <div className="mb-10 grid grid-cols-1 md:grid-cols-2 gap-6">
-        {fullSalahGuide.map((step, idx) => (
+        {fullSalahGuide.map((step) => (
           <div key={step.position} className="bg-white rounded-xl shadow p-6">
             <h3 className="text-lg font-semibold text-green-800 mb-2">{step.position}</h3>
             <ul className="list-disc list-inside text-gray-700 space-y-2">
